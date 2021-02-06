@@ -25,7 +25,7 @@ def fva(a, i, p):
 
     n = i*100
 
-    print('If you invest $' + str(a) + '0 every year for ' + str(int(p)) + ' years and earn  ' + str(n) + '% per year, your balance will be $' +  str(fva_val) + '.')
+    print('\nIf you invest $' + str(a) + '0 every year for ' + str(int(p)) + ' years and earn  ' + str(n) + '% per year, your balance will be $' +  str(fva_val) + '.\n')
 
 
 # start program
